@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="JDBC Data Source" uuid="39b72e63-27fa-4598-8555-03ec6fd2e4c4">
+      <driver-ref>java.sql.Driver</driver-ref>
+      <synchronize>true</synchronize>
+      <configured-by-url>true</configured-by-url>
+      <jdbc-driver>cdata.jdbc.access.AccessDriver</jdbc-driver>
+      <jdbc-url>jdbc:access:DataSource=$PROJECT_DIR$/GymData.accdb;</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+  </component>
+</project>
